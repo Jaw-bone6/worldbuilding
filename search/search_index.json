@@ -1,1 +1,1 @@
-{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Worldbuilding","text":""}]}
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Worldbuilding","text":"<p>This is the wiki for my as-of-now unnamed worldbuilding project.</p> <p>The core concept of this world is Vilix.</p>"},{"location":"vilix/","title":"Vilix","text":""}]}
