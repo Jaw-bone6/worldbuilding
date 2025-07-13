@@ -1,8 +1,11 @@
 # Vilix
 
-Vilix is a fundamental energy, closely tied to all life, that permeates space.
+Vilix (pronounced /ˈvɪlɪks/) is a fundamental energy, closely tied to all life, that permeates space.
 All living things have a [soul](soul.md), and that soul must be, to some extent, saturated
-with Vilix in order to function. Without Vilix, life can not exist.
+with Vilix in order to function. Without Vilix, life can not exist. Things that
+are not traditionally considered to be living can also harbour a well of Vilix.
+Thus, there exists a general term for anything that has such a well: a 'Vilin'
+(pronounced /ˈvaɪlɪn/)
 
 ### Types of Vilix
 
@@ -31,6 +34,8 @@ Vilix can be lost suddenly in larger quantities, all at once, due to physically
 and/or mentally traumatic events, such as injury or bereavement. Such traumatic
 events also cause a sudden 'contamination' of the Vilix that remains, in which
 the its [quality](#vilix-quality) is degraded.
+
+#### Vilix intake
 
 In contrast, Vilix is constantly fed into any soul as long as the correct type
 of Vilix is present in the space that the soul occupies. The rate at which this
