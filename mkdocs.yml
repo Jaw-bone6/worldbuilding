@@ -5,6 +5,9 @@ nav:
   - Fundamentals:
     - vilix.md
     - dimension.md
+  - Living creatures:
+    - human.md
+    - thermovore.md
   - About: about.md
 theme:
   name: material
