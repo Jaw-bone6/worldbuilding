@@ -1,0 +1,14 @@
+site_name: Worldbuilding
+nav:
+  - Home: index.md
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tabs
+  palette:
+    scheme: slate
+    primary: deep purple
+  color_mode: auto
+  user_color_mode_toggle: True
+
