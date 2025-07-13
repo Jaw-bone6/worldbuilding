@@ -15,3 +15,6 @@ theme:
     scheme: slate
     primary: deep purple
   logo: assets/logo2.png
+plugins:
+  - tags
+  - search
