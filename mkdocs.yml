@@ -1,4 +1,5 @@
 site_name: Worldbuilding
+site_url: https://jaw-bone6.github.io/worldbuilding/
 nav:
   - Home: index.md
   - Fundamentals:
