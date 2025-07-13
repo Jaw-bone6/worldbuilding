@@ -1,7 +1,9 @@
 site_name: Worldbuilding
 nav:
   - Home: index.md
-  - Fundamentals: fundamentals/
+  - Fundamentals:
+    - vilix.md
+    - dimension.md
   - About: about.md
 theme:
   name: material
