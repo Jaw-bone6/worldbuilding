@@ -15,6 +15,7 @@ theme:
     scheme: slate
     primary: deep purple
   logo: assets/logo2.png
+  favicon: assets/favicon.ico
 plugins:
   - tags
   - search
