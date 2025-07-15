@@ -4,9 +4,11 @@ repo_url: https://github.com/Jaw-bone6/worldbuilding
 nav:
   - Basics:
     - vilix.md
+    - soul.md
     - dimension.md
   - Vilins:
     - human.md
+    - unbound_soul.md
     - thermovore.md
   - About: about.md
 theme:
