@@ -52,6 +52,8 @@ quantity, lower input causes the baseline level of Vilix in a soul to reduce.
 This baseline level is the quantity of Vilix resulting in a rate of loss equal
 to the rate of gain.
 
+#### Vilix level/quality effects
+
 The level of Vilix in a soul very directly affects the physical body to which
 the soul is bound. Low Vilix (or low-quality Vilix, see [Vilix
 quality](#vilix-quality)) hinders a living thing's body in a few ways:
@@ -61,7 +63,33 @@ quality](#vilix-quality)) hinders a living thing's body in a few ways:
 - greater susceptablity to mental conditions such as depression, amnesia
 ([retrograde and anterograde](https://en.wikipedia.org/wiki/Amnesia#Types) and
 outright insanity (complete loss of one's mind, common in extreme cases of
-Vilix deprivation, leaves)
+Vilix deprivation; the total destruction of one's personality and mental
+capabilites such as critical thinking, logic, empathy, etc.)
 
 ### Vilix quality
+
+The Vilix in a Vilin is of a certain quality ranging from perfect all the way
+down to near useless. The quality of Vilix, together with the quantity, is one
+of the two factors dictating the Vilin's physical and mental health. Vilix of
+half the quality is only as good as half the amount of Vilix of the same
+quality.
+
+Vilix of quality spanning the whole possible spectrum exists. The quality a
+Vilin is capable of absorbing depends on their physcal and mental health. The
+more degraded these properties are, the lower the quality of Vilix that will be
+absorbed.
+
+### Vilix power
+
+Vilix power is a term meaning the combination of quality and quantity of Vilix
+in a Vilin, and is ultimately the single relevant factor in Vilix' capability
+to maintain a Vilin's health.
+
+### The spiral effect
+
+As the power of Vilix affects the health of a Vilin, and the health, in turn,
+affects the power of incoming Vilix, and trauma causes sudden reduction in
+Vilix' power, Vilix exhibits a sort of "downward spiral effect" wherein reduced
+Vilix power put the Vilin in a condition where recovery back to acceptable
+levels is more difficult, resulting in lower Vilix power levels, and so on.
 
