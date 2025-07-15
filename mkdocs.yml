@@ -11,15 +11,15 @@ nav:
     - thermovore.md
   - About: about.md
 theme:
-  name: readthedocs
-  # features:
-  #   - navigation.instant
-  #   - navigation.tabs
-  # palette:
-  #   scheme: slate
-  #   primary: deep purple
-  # logo: assets/logo2.png
-  # favicon: assets/favicon.ico
-# plugins:
-#   - tags
-#   - search
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tabs
+  palette:
+    scheme: slate
+    primary: deep purple
+  logo: assets/logo2.png
+  favicon: assets/favicon.ico
+plugins:
+  - tags
+  - search
