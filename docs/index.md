@@ -7,3 +7,5 @@ The core concept of this world is [Vilix](vilix.md).
 This is currently WIP. Most pages will be awkward and/or incomplete. Some links
 may point to pages that do not yet exist.
 
+Hi guys
+
