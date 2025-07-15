@@ -2,7 +2,7 @@ site_name: Worldbuilding
 site_url: https://jaw-bone6.github.io/worldbuilding/
 repo_url: https://github.com/Jaw-bone6/worldbuilding
 nav:
-  - Fundamentals:
+  - Basics:
     - vilix.md
     - dimension.md
   - Vilins:
