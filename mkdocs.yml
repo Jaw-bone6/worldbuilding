@@ -1,5 +1,6 @@
 site_name: Worldbuilding
 site_url: https://jaw-bone6.github.io/worldbuilding/
+repo_url: https://github.com/Jaw-bone6/worldbuilding
 nav:
   - Home: index.md
   - Fundamentals:
@@ -10,15 +11,15 @@ nav:
     - thermovore.md
   - About: about.md
 theme:
-  name: material
-  features:
-    - navigation.instant
-    - navigation.tabs
-  palette:
-    scheme: slate
-    primary: deep purple
-  logo: assets/logo2.png
-  favicon: assets/favicon.ico
-plugins:
-  - tags
-  - search
+  name: readthedocs
+  # features:
+  #   - navigation.instant
+  #   - navigation.tabs
+  # palette:
+  #   scheme: slate
+  #   primary: deep purple
+  # logo: assets/logo2.png
+  # favicon: assets/favicon.ico
+# plugins:
+#   - tags
+#   - search
